@@ -1,4 +1,5 @@
 # DicewithMe
+A simple JavaScript dice game with a simple interface.
 
 # Deployed link
 https://aryandeelwal.github.io/DicewithMe/
